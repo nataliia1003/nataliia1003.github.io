@@ -1,0 +1,18 @@
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	margin-top: 140px;
+	margin-bottom: 115px;
+	text-align: center;
+	font-size: 36px;
+	font-weight: 300;
+}
+img {
+	vertical-align: bottom;
+}
+p {
+	margin-top: 35px;
+ font-size: 18px;
+}

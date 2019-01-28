@@ -23,4 +23,4 @@
 
 [Урок12](https://nataliia1003.github.io/lesson12/ "Моя готовая домашка") - Работа с репозиторием на GitHub
 
-[Урок13](https://https://nataliia1003.github.io/lesson13/src/ "Моя готовая домашка") - Адаптивная верстка
+[Урок13](https://nataliia1003.github.io/lesson13/src/ "Моя готовая домашка") - Адаптивная верстка
